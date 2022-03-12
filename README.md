@@ -1,4 +1,4 @@
-# RFES: Reservoir-based the First Edge Sampling for Global Triangle Estimation in Large Graph Streams
+# Global Triangle Estimation Based on First Edge Sampling in Large Graph Streams
 
 Release Date: 15th November, 2021
 
